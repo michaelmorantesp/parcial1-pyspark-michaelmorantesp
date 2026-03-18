@@ -309,8 +309,8 @@ docker-compose down
 ## 📞 Contacto / Revisión por Pares
 
 **Revisor compañero**: Daniela Murcia
-- GitHub Issue/Comentario: Link
-- Feedback: Resumen
+- GitHub Issue/Comentario: ¿Las reservas con estancias más largas y presencia de niños presentan una menor probabilidad de cancelación en comparación con otros tipos de reservas?
+
 
 ---
 
